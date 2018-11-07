@@ -1,5 +1,5 @@
 # SENTIMENT ANALYSIS
-* * *
+
 Repository ini merupakan implementasi dari sentimen analisis dengan menggunakan tahapan seperti dibawah ini:
   
   * Reading data .xml
